@@ -1,0 +1,21 @@
+SWEN-250 Activity Journal
+Ruby Practice Practicum
+
+Name:
+
+================================================================
+DistanceConverter Class
+Actual Time	MM
+Lessons learned, problems encountered, obstacles overcome, etc.
+
+================================================================
+Project Measurements Class
+Actual Time	MM
+Lessons learned, problems encountered, obstacles overcome, etc.
+
+================================================================
+Create Unit Test for addTwoMeasurementsInInches
+Actual Time	MM
+Lessons learned, problems encountered, obstacles overcome, etc.
+
+================================================================
